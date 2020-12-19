@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on 3D printing.
-- 🌱 I’m currently learning Blender (so exciting OMG).
+- 🌱 I’m currently learning Blender.
 - 📫 How to reach me: gabriel.chiocconi@gmail.com
 - 😄 Pronouns: Java, JavaScript, HTML, CSS, JQuery, Vue.js, Python, SQL and others...
 - ⚡ Fun fact: I love hiking.
